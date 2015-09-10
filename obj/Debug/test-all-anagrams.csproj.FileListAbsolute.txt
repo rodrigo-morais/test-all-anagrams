@@ -1,0 +1,1 @@
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\bin\Debug\test-all-anagrams.exe.config
