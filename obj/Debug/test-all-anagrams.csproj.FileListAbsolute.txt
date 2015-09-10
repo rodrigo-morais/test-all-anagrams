@@ -1,1 +1,6 @@
 C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\bin\Debug\test-all-anagrams.exe.config
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\bin\Debug\test-all-anagrams.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\bin\Debug\test-all-anagrams.pdb
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\obj\Debug\test-all-anagrams.csprojResolveAssemblyReference.cache
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\obj\Debug\test-all-anagrams.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-all-anagrams\obj\Debug\test-all-anagrams.pdb

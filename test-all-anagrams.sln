@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-all-anagrams", "test-all-anagrams.csproj", "{A5E19181-8F84-4192-BB06-A896BDB63887}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "all-anagrams-test", "..\all-anagrams-test\all-anagrams-test.csproj", "{8FE07E0C-B68D-49ED-BD6A-2039C6568686}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{A5E19181-8F84-4192-BB06-A896BDB63887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5E19181-8F84-4192-BB06-A896BDB63887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5E19181-8F84-4192-BB06-A896BDB63887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FE07E0C-B68D-49ED-BD6A-2039C6568686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE07E0C-B68D-49ED-BD6A-2039C6568686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE07E0C-B68D-49ED-BD6A-2039C6568686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE07E0C-B68D-49ED-BD6A-2039C6568686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
